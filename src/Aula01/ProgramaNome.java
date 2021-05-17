@@ -1,4 +1,4 @@
-package aula01;
+package Aula01;
 
 //Como queremos utilziar o Scanner para ler os dados que o usuário vai digitar, e ele não é carregado por padrão, precisamos IMPORTAR o Scanner para que nosso programa "entenda" ele
 import java.util.Scanner;
